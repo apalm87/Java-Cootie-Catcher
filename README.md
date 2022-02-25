@@ -1,2 +1,4 @@
 # Java-Cootie-Catcher
-Cootie Catcher game created using Java.
+
+Instructions:
+Ask the program a question, pick a color, select a number, and the program will answer your question.
