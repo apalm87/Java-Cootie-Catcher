@@ -1,4 +1,4 @@
 # Java-Cootie-Catcher
 
-Instructions:
-Ask the program a question, pick a color, select a number, and the program will answer your question.
+Instructions: 
+Pose a question to the program, choose a color, pick a number, and the program will generate your answer.
